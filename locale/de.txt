@@ -1,0 +1,65 @@
+#: locale=de
+
+## Aktion
+
+### PDF
+PopupPDFBehaviour_854621BA_A537_9CC2_41E4_01A5621DA3A6.url = files/Jahresprogramm_2022_2023_Kunstsammlung_Nordrhein-Westfalen_30.9.2022_de.pdf
+
+### Text to Speech
+TextToSpeechBehaviour_BA3C4293_A537_7CC2_41A9_DF58D3C5AA4C.text = Herzlich willkommen in der Kunstausstellung des Jahres! Genieß es in vollen Zügen!
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_8D9C3A9A_A446_D73F_418D_9A49205304D6.text = AusstellungsHalle
+HotspotPanoramaOverlayTextImage_8F258039_A5DA_537D_41DC_F819E4D153B2.text = Galerie Lachenmann Art Frankfurt
+HotspotPanoramaOverlayTextImage_8F10BCC6_A5DA_D317_41D7_204215218EAF.text = Start
+
+### URL
+FramePanoramaOverlay_8F1457EC_A5C7_DD1B_41E2_618586F8647E.url = https://lachenmann-art.com
+FramePanoramaOverlay_8ABB51F8_A961_41EE_41D6_4D9D6DA41B31.url = https://uni-wuppertal.zoom.us/j/68657481660?pwd=NmZHaFlveFFaa3BvajF0Mk0wanZpdz09
+
+## Media
+
+### Image
+imlevel_BAC9449B_A50B_64C2_41D6_43D311FDDBF2.url = media/panorama_83C98BBA_A44A_757F_41E0_F318660C298C_HS_8wzixlmp_de.png
+imlevel_8F2051EE_A5C6_3517_41DC_66379E80554C.url = media/panorama_83C98D6E_A44A_2D17_41D3_2C82C90754C9_HS_972p46bx_de.png
+imlevel_8D4A47DF_A5CA_3D35_41E3_4C0826BFDAC9.url = media/panorama_8D9BFA36_A44A_5777_41C5_9E020EC0FAF8_HS_jg8ci3bc_de.png
+
+### Titel
+panorama_8D9BFA36_A44A_5777_41C5_9E020EC0FAF8.label = 0001
+panorama_83C98BBA_A44A_757F_41E0_F318660C298C.label = 0002
+panorama_83C98D6E_A44A_2D17_41D3_2C82C90754C9.label = 0003
+album_BA5E7FD6_A515_E442_41D9_F4624BDBC35E_3.label = 10 das obras mais famosas de Vincent Van Gogh - ArteRef
+album_8A8FE42A_A8A1_4662_41CA_644DC8152021_0.label = Braun & Company Servietten Herzlich Willkommen 33x33cm 20er Pack Tischservietten
+album_BA5E7FD6_A515_E442_41D9_F4624BDBC35E_0.label = Braun & Company Servietten Herzlich Willkommen 33x33cm 20er Pack Tischservietten
+album_BA5E7FD6_A515_E442_41D9_F4624BDBC35E.label = Fotoalbum Braun & Company Servietten Herzlich Willkommen 33x33cm 20er Pack Tischservietten
+album_8A8FE42A_A8A1_4662_41CA_644DC8152021.label = Fotoalbum Braun & Company Servietten Herzlich Willkommen 33x33cm 20er Pack Tischservietten
+photo_896ABB59_A8E1_C22E_41E0_D0D4074B0160.label = Franz-Marc-Dog-Lying-in-the-Snow
+album_BA5E7FD6_A515_E442_41D9_F4624BDBC35E_1.label = Hand Painted Modern Tree Art Decoration Oil Painting On Canvas Landsacpe Wall Pictures For Living Room Decor
+album_BA5E7FD6_A515_E442_41D9_F4624BDBC35E_2.label = Positano Italy printable art Amalfi coast print Colorful wall art Architecture art Amalfi Coast poster Italy art Colorful artwork poster art
+video_B91F3827_A50B_ABC2_41D5_E2E2F81770DF.label = WhatsApp Video 2023-11-06 at 16.19.57
+
+### Video
+videolevel_AA4CEE55_B42E_226A_41E5_E0CDC1CC973B.url = media/video_B91F3827_A50B_ABC2_41D5_E2E2F81770DF_de.mp4
+videolevel_AA4CEE55_B42E_226A_41E5_E0CDC1CC973B.posterURL = media/video_B91F3827_A50B_ABC2_41D5_E2E2F81770DF_poster_de.jpg
+
+### Video Untertitel
+
+## Popup
+
+### Body
+htmlText_8A4BC103_A8E1_3E22_41D3_55B1BF5D4A7C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Liegender Hund im Schnee</B> </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Diese beliebte Komposition wurde 1911 von dem in Deutschland lebenden Künstler Franz Marc geschaffen. Das Gemälde mit eckigen Aspekten zeigt Marcs eigenen sibirischen Schäferhund namens Russi, der im Januar in der Nähe des Dorfes, in dem er lebte, sorglos auf weißem, eisigem Schnee lag.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Die Szene mit den Primärfarben Gelb, Blau und deren Kombinationen illustriert die Zuneigung des Hundes zur Natur. Marc war dafür bekannt, Tiere zu malen, da er sie als rein und näher bei Gott empfand. Von allen seinen populären Kreationen galt diese als sehr intim und lag ihm sehr am Herzen.</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Tooltip
+Container_9A7F81E3_A9E7_41E2_41D4_25AE2A01ACC1.toolTip =  \
+
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 2
